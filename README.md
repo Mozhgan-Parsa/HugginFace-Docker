@@ -32,7 +32,5 @@ To run the Flask application with Gunicorn, follow these steps:
 
 4. Once the containers are up and running, you can access the application by navigating to `http://localhost:5000` in your web browser.
 
-## Scaling the Application
 
-To scale the application horizontally and add more instances, you can adjust the number of app containers by modifying the `--scale app=3` parameter in the `docker-compose.yml` file. For example, to add five instances, you can change it to `--scale app=5` and then restart the containers using `docker-compose up -d`.
 
