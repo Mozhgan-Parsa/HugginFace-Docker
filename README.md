@@ -13,13 +13,13 @@ To run the Flask application with Gunicorn, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/docker-flask-gunicorn.git
+    git clone https://github.com/yourusername/Lemay.git
     ```
 
 2. Navigate to the `docker-flask-gunicorn` directory:
 
     ```bash
-    cd docker-flask-gunicorn
+    cd assignment/docker-flask-gunicorn
     ```
 
 3. Run the following command to start the application:
